@@ -1,0 +1,51 @@
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.exe.config
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.exe
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.pdb
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.Properties.Resources.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.exe
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.pdb
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.giris.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.koy.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.zindan.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.balik.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.envanter.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.maden.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.orman.resources
+C:\Users\90536\Desktop\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.craft.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.exe.config
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.exe
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.pdb
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.balik.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.craft.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.envanter.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.giris.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.koy.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.maden.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.orman.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.Properties.Resources.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.zindan.resources
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.exe
+C:\Users\90536\Desktop\ıvır zıvır\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.pdb
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.exe.config
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.exe
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug\MaceraTutkunuDemirci.pdb
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.balik.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.craft.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.envanter.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.giris.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.koy.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.maden.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.orman.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.Properties.Resources.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.zindan.resources
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.exe
+C:\Users\90536\Desktop\PROJEE\Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\obj\Debug\MaceraTutkunuDemirci.pdb

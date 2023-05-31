@@ -1,0 +1,8 @@
+Merhaba Ben Emre C# öğrenmek amacıyla Visual Studio Form projesi olarak bir oyun yaptım
+tamamen öğrenme amaçlıdır ve içinde buglar bulunmaktadır .
+OYUNA BAŞLA DEDİKTEN SONRA BİLDİRİMLER  TIKLADIKTAN SONRA OYUNA BAŞLAYABİLİRSİNİZ
+
+
+YENİ FİKİRLER VEYA BUGLAR VE DAHA FAZLASI  İÇİN BANA ULAŞABİLİRSİNİZ
+instagram:@emreyksln
+mail:emreyksln@gmail.com

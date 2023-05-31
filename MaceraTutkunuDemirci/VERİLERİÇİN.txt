@@ -1,0 +1,3 @@
+Macera Tutkunu Demirci\MaceraTutkunuDemirci\MaceraTutkunuDemirci\bin\Debug/kullanici_veri.mdb
+VERİTABANI DEĞİŞİKLERİN BU KISIMDAN AYARLAYABİLİRSİNİZ
+bug olursa can veya kıyafet ayarlarını değiştirebilirsiniz

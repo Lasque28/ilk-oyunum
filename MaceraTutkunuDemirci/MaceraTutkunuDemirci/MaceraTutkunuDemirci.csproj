@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9110605A-C73F-46BC-B4F9-C5B7A3067A59}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MaceraTutkunuDemirci</RootNamespace>
+    <AssemblyName>MaceraTutkunuDemirci</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="balik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="balik.Designer.cs">
+      <DependentUpon>balik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="craft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="craft.Designer.cs">
+      <DependentUpon>craft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="envanter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="envanter.Designer.cs">
+      <DependentUpon>envanter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koy.Designer.cs">
+      <DependentUpon>koy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici_veriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>kullanici_veriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="maden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="maden.Designer.cs">
+      <DependentUpon>maden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orman.Designer.cs">
+      <DependentUpon>orman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="zindan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zindan.Designer.cs">
+      <DependentUpon>zindan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="balik.resx">
+      <DependentUpon>balik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="craft.resx">
+      <DependentUpon>craft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="envanter.resx">
+      <DependentUpon>envanter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koy.resx">
+      <DependentUpon>koy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="maden.resx">
+      <DependentUpon>maden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orman.resx">
+      <DependentUpon>orman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zindan.resx">
+      <DependentUpon>zindan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="kullanici_veriDataSet.xsc">
+      <DependentUpon>kullanici_veriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="kullanici_veriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>kullanici_veriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="kullanici_veriDataSet.xss">
+      <DependentUpon>kullanici_veriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="kullanici_veri.mdb" />
+    <None Include="Resources\monsterattack.wav" />
+    <None Include="Resources\update.jpg" />
+    <None Include="Resources\gayak.png" />
+    <None Include="Resources\gkalkan.png" />
+    <None Include="Resources\gbilezik.jpg" />
+    <None Include="Resources\gküpe.jpeg" />
+    <None Include="Resources\gkolye.jpg" />
+    <None Include="Resources\gsword.jpg" />
+    <None Include="Resources\garmor.png" />
+    <None Include="Resources\ghelmet.jpg" />
+    <None Include="Resources\cavegirisi6.jpg" />
+    <None Include="Resources\blacksmith.jpg" />
+    <None Include="Resources\köy.jpg" />
+    <None Include="Resources\gölkenar.jpg" />
+    <None Include="Resources\cavegiris4.jpg" />
+    <None Include="Resources\coin.jpg" />
+    <None Include="Resources\inci.jpg" />
+    <None Include="Resources\healpotion.png" />
+    <None Include="Resources\pismisbalik.jpeg" />
+    <None Include="Resources\manapotion.png" />
+    <None Include="Resources\bos.jpg" />
+    <None Include="Resources\cicek4.jpg" />
+    <None Include="Resources\cicek3.jpg" />
+    <None Include="Resources\cicek2.jpg" />
+    <None Include="Resources\mantar.jpg" />
+    <None Include="Resources\jungle4.jpg" />
+    <None Include="Resources\jungle3.jpg" />
+    <None Include="Resources\jungle1.jpg" />
+    <None Include="Resources\jungelstart.jpg" />
+    <None Include="Resources\fishing.wav" />
+    <None Include="Resources\dig.wav" />
+    <None Include="Resources\jungle2.webp" />
+    <None Include="Resources\stone22.png" />
+    <None Include="Resources\obbar.png" />
+    <None Include="Resources\goldbar.png" />
+    <None Include="Resources\ironbar.jpg" />
+    <None Include="Resources\silverbar.png" />
+    <None Include="Resources\yakut.png" />
+    <None Include="Resources\stone.png" />
+    <None Include="Resources\maden.jpg" />
+    <None Include="Resources\fish.png" />
+    <None Include="Resources\fish2.png" />
+    <None Include="Resources\balik-avi.jpg" />
+    <None Include="Resources\ss.jpg" />
+    <None Include="Resources\envanter33.jpg" />
+    <None Include="Resources\armor2.jpg" />
+    <None Include="Resources\bilezik.jpg" />
+    <None Include="Resources\küpe.png" />
+    <None Include="Resources\envanter2.jpg" />
+    <None Include="Resources\armorr.jpg" />
+    <None Include="Resources\neckle.png" />
+    <None Include="Resources\sword.jpg" />
+    <None Include="Resources\shild.jpg" />
+    <None Include="Resources\helmet.jpg" />
+    <None Include="Resources\envanter.jpg" />
+    <None Include="Resources\attack3.wav" />
+    <None Include="Resources\attack3.mp3" />
+    <None Include="Resources\attack2.wav" />
+    <None Include="Resources\attack2.flac" />
+    <None Include="Resources\heal.wav" />
+    <None Include="Resources\attack.wav" />
+    <None Include="Resources\giris_foto.jpg" />
+    <None Include="Resources\cavegirsi3.png" />
+    <None Include="Resources\slime2.jpg" />
+    <None Include="Resources\orkresim.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
